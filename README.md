@@ -144,26 +144,6 @@ ASPLOS '21: Proceedings of the 26th ACM International Conference on Architectura
 Support for Programming Languages and Operating Systems, 2021, pp. 473-486.
 DOI: 10.1145/3445814.3446758. arXiv:2012.02333.
 
-    @misc{tang2025tensorqc,
-      author = {Tang, Wei and Martonosi, Margaret},
-      title  = {{TensorQC}: Towards Scalable Distributed Quantum Computing via Tensor Networks},
-      year   = {2025},
-      eprint = {2502.03445},
-      archivePrefix = {arXiv},
-      primaryClass  = {cs.ET}
-    }
-
-    @inproceedings{tang2021cutqc,
-      author    = {Tang, Wei and Tomesh, Teague and Suchara, Martin and Larson, Jeffrey and Martonosi, Margaret},
-      title     = {{CutQC}: Using Small Quantum Computers for Large Quantum Circuit Evaluations},
-      booktitle = {Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '21)},
-      year      = {2021},
-      pages     = {473--486},
-      publisher = {Association for Computing Machinery},
-      doi       = {10.1145/3445814.3446758}
-    }
-
-
 ## License
 
 No license is currently specified. Add one (for example MIT) if the code is
