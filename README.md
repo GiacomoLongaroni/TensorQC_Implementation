@@ -144,7 +144,3 @@ ASPLOS '21: Proceedings of the 26th ACM International Conference on Architectura
 Support for Programming Languages and Operating Systems, 2021, pp. 473-486.
 DOI: 10.1145/3445814.3446758. arXiv:2012.02333.
 
-## License
-
-No license is currently specified. Add one (for example MIT) if the code is
-intended to be reused.
